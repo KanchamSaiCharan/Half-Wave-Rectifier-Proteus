@@ -28,7 +28,7 @@ Proteus 8 Professional
 
 ## Output Waveform
 
-![Output Waveform](Output_Waveform_HFW.png)
+![Output Waveform](Output_Waveform_HFWR.png)
 
 ---
 
