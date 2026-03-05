@@ -1,26 +1,31 @@
-# Half-Wave-Rectifier-Proteus
+# Half Wave Rectifier using Proteus
 
 ## Objective
-To design and simulate a Half Wave Rectifier circuit that converts AC voltage into pulsating DC voltage.
-
-## Components Used
-- Transformer
-- Diode
-- Load Resistor
-- Oscilloscope
-- AC Supply(230V,50Hz)
+To design and simulate a Half Wave Rectifier that converts AC input into pulsating DC output.
 
 ## Software Used
 Proteus 8 Professional
 
+##Components Used
+AC Supply(230v,50Hz)
+Diode
+Transformer
+Load Resistor
+Ground
+Oscilloscope
+
 ## Circuit Diagram
-![Circuit](circuit Diagram HFW.png)
+
+![Circuit Diagram](Circuit Diagram HFW.png)
 
 ## Output Waveform
-![Output](Output Waveform HFW.png)
+
+![Output Waveform](Output Waveform HFW.png)
 
 ## Working Principle
-In a half wave rectifier, the diode allows only the positive half cycle of the AC input signal to pass through while blocking the negative half cycle. As a result, the output across the load resistor becomes a pulsating DC signal.
+A half wave rectifier uses a diode to allow only the positive half cycle of AC input. The negative half cycle is blocked by the diode, resulting in a pulsating DC output across the load resistor.
 
-## Result
-The AC input signal is successfully converted into a pulsating DC output.
+## Project Files
+- Half Wave rectifier .pdsprj
+- Circuit Diagram HFW.png
+- Output Waveform HFW.png
